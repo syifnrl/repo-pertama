@@ -1,1 +1,2 @@
 print("P")
+print("A")
